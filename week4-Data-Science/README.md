@@ -60,6 +60,14 @@ week4-Data-Science/
 - Keep the focus on Government and on the Paseo product.
 - Get ready for October and December, which are the busiest months.
 
+## How to run the notebook
+
+1. Open `Data_Visualization_Capstone_Project.ipynb` in Google Colab.
+2. Upload `Data/sales_data.csv` to Colab (the folder icon on the left, then Upload).
+3. Click Runtime, then Run all.
+
+The notebook writes `cleaned_sales.csv` when it runs.
+
 ## Notes
 
 - 2013 only has Sep to Dec, so I only compared the same months across the two years.
